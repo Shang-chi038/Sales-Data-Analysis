@@ -1,0 +1,11 @@
+TransactionID,Date,Product,SalesAmount
+1,2024-01-01,ProductA,100
+2,2024-01-01,ProductB,150
+3,2024-01-02,ProductA,200
+4,2024-01-02,ProductC,50
+5,2024-01-03,ProductB,120
+6,2024-01-03,ProductC,80
+7,2024-01-04,ProductA,180
+8,2024-01-04,ProductB,130
+9,2024-01-05,ProductC,70
+10,2024-01-05,ProductA,220
